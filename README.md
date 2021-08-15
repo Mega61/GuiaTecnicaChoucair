@@ -5,6 +5,7 @@
 * __Inconveniente al hacer inicio de sesión por medio de chrome:__
 Este inconveniente ocurre al intentar hacer el inicio de sesión a la página de https://operacion.choucairtesting.com/academy/login/index.php
 Al digitar el usuario y contraseña correctos por primera vez ocurre un error inesperado, en el cual avisa que el ingreso no es valido, por esto la automatización vuelve a hacer el proceso de inicio de sesion
+![image](https://user-images.githubusercontent.com/73146750/129493391-09ace1e0-9f19-42be-9e1b-ba6f775bfa7b.png)
 
 * __Imposibilidad de acceso a Universidad Choucair:__ 
 ![image](https://user-images.githubusercontent.com/73146750/129493306-6d76c9b3-a2e2-409e-bd43-674dd91a630b.png)
