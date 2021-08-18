@@ -8,7 +8,7 @@ import model.AcademyChoucairData;
 import net.serenitybdd.screenplay.GivenWhenThen;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
-import tasks.Answer;
+import questions.Answer;
 import tasks.Login;
 import tasks.OpenUp;
 import tasks.Search;

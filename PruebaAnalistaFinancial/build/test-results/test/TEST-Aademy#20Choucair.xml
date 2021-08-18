@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Aademy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-15T20:56:34" hostname="DESKTOP-5RT2RSC" time="27.949">
+<testsuite name="Aademy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-18T00:02:37" hostname="DESKTOP-5RT2RSC" time="34.709">
   <properties/>
-  <testcase name="Search for automation course" classname="Aademy Choucair" time="27.949"/>
+  <testcase name="Search for automation course" classname="Aademy Choucair" time="34.709"/>
   <system-out><![CDATA[1000366000Choucair2021*
 Ingresado por tabla: Patrones de Automatización
 Encontrado en pÃ¡gina: Patrones de Automatización
 ]]></system-out>
   <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@14a00b93
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@389a131
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@59e65306
-ago 15, 2021 3:56:35 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@33a81188
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@16dc6b7e
+ago 17, 2021 7:02:37 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
-[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start maximized, goog:chromeOptions: {args: [--start maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 15449
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 8533
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-ago 15, 2021 3:56:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+ago 17, 2021 7:02:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
@@ -25,36 +25,36 @@ INFORMACIÓN: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7f4776cb
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@826665b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@52c504a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4dcc9866
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6c0f75df
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@67ea8bd1
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2b9a33c0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@61eb1eb2
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@ab722fe
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@259f883e
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@652b2bec
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@76307530
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@a27c615
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@720a1e1c
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@317f16a8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3396f722
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3ae4c3d2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5a4d2f45
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]]]
@@ -64,27 +64,27 @@ INFORMACIÓN: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@45082a5b
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@24de574b
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2039d0d2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7b6a3398
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1a468ba
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1b34d258
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform
 | strCourse |
 | Patrones de Automatización | [Brandon search [Brandon clicks on Courses and certifications option on main page]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1efaaea0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@311ed6f5
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform
 | strCourse |
 | Patrones de Automatización | [Brandon search [Brandon clicks on Courses and certifications option on main page, Brandon enters 'Patrones de automatizacion' into Input for course searching]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@732e6ecc
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@407997e7
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform
 | strCourse |
 | Patrones de Automatización | [Brandon search [Brandon clicks on Courses and certifications option on main page, Brandon enters 'Patrones de automatizacion' into Input for course searching, Brandon clicks on Button for course searching]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@119df975
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3b7f3674
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform
@@ -100,8 +100,8 @@ INFORMACIÓN: Detected dialect: W3C
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform
 | strCourse |
 | Patrones de Automatización | [Brandon search [Brandon clicks on Courses and certifications option on main page, Brandon enters 'Patrones de automatizacion' into Input for course searching, Brandon clicks on Button for course searching, Brandon clicks on Found Course Tittle]]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@361ee8d3
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@408950df
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@59aed070
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@269d81bf
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for automation course:Example: {strUser=1000366000, strPassword=Choucair2021*, strCourse=Patrones de Automatización} [Given than Brandon wants to learn automation at the choucair academy
 | strUser | strPassword |
 | 1000366000 | Choucair2021* | [Brandon open up [Brandon opens the Choucair academy page], Brandon login [Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form, Brandon clicks on Button that shows the popup login form, Brandon enters '1000366000' into Username input for login form, Brandon enters 'Choucair2021*' into Password inpit for login form, Brandon clicks on Login button inside the login form after rejected first login form]], When he search for the course on the choucair academy platform

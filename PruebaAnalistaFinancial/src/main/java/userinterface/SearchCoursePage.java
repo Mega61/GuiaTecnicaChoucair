@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class SearchCoursePage extends PageObject {
+public class SearchCoursePage{
 
     public static final Target COURSES_AND_CERTS = Target.the("Courses and certifications option on main page").located(By.xpath("//*[@id=\"certificaciones\"]/div[1]/a"));
     public static final Target INPUT_COURSE_SEARCH = Target.the("Input for course searching").located(By.xpath("//*[@id=\"coursesearchbox\"]"));

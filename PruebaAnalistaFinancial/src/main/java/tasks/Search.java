@@ -27,12 +27,4 @@ public class Search implements Task {
                 Click.on(SearchCoursePage.BUTTON_COURSE_SEARCH),
                 Click.on(SearchCoursePage.FOUND_COURSE));
     }
-
-    public String getCourse() {
-        return course;
-    }
-
-    public void setCourse(String course) {
-        this.course = course;
-    }
 }

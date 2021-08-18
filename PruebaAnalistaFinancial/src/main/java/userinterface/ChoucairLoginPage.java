@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class ChoucairLoginPage extends PageObject {
+public class ChoucairLoginPage{
 
     public static final Target LOGIN_BUTTON = Target.the("Button that shows the popup login form").located(By.xpath("/html/body/div[1]/div[2]/div/section/div[2]/header/div[1]/nav/ul[2]/li"));
     public static final Target USERNAME_INPUT = Target.the("Username input for login form").located(By.xpath("//*[@id=\"username\"]"));

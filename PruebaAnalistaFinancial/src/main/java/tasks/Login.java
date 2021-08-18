@@ -32,22 +32,6 @@ public class Login implements Task {
                 Enter.theValue(strUser).into(ChoucairLoginPage.USERNAME_INPUT),
                 Enter.theValue(strPassword).into(ChoucairLoginPage.PASSWORD_INPUT),
                 Click.on(ChoucairLoginPage.FINAL_LOGIN_BUTTON_FAIL));
-
     }
 
-    public String getStrUser() {
-        return strUser;
-    }
-
-    public void setStrUser(String strUser) {
-        this.strUser = strUser;
-    }
-
-    public String getStrPassword() {
-        return strPassword;
-    }
-
-    public void setStrPassword(String strPassword) {
-        this.strPassword = strPassword;
-    }
 }
